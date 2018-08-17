@@ -9,7 +9,7 @@
   }
   
   nav {
-    background: #43a047;
+    background: #5743a0;
     border-bottom: 4px solid #cccccc;
     margin-bottom: 100px;
     height: 96px;
@@ -25,7 +25,8 @@
   }
   
   .about {
-    margin: 10px
+    margin: 10px;
+    padding: 10px;
   }
   
   h3 {
@@ -43,7 +44,7 @@
     width: 95%
   }
   
-  #carla {
+  .carla {
     width: 300px;
     font-size: 30px;
     color: white;
@@ -53,6 +54,13 @@
   
   .card {
     margin: 7px;
+  }
+
+  #portfolioImage {
+    width: 200px;
+    float: left;
+    margin-left: 23px;
+    margin-right:10px;
   }
   
   @media screen and (max-width: 600px) {
