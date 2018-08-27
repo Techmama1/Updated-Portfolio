@@ -39,7 +39,15 @@
   .card-content {
     text-align: center;
   }
-  
+
+  .card-image1{
+    height: 400px;
+    max-width: 100%; 
+    margin: 7px;
+  } 
+   
+
+
   hr {
     width: 95%
   }
